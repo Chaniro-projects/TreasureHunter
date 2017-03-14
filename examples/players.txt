@@ -1,0 +1,4 @@
+# Players file example
+Yannick 1-2 S AAADADAD
+Shirley 3-3 S AAGAGAGA
+Bastien 5-2 S AADADAGA
